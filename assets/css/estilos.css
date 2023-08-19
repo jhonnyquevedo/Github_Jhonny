@@ -25,6 +25,15 @@ body {
   background-position: center;
 }
 
+#Mis-trabajos .image-top3 {
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+
 /* Contacto */
 
 #Contacto form label {
